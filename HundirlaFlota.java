@@ -1,3 +1,5 @@
+// COMENTARIO PARA EL ÚLTIMO TIPO DE ERROR
+
 package hundirlaflota;
 
 import java.util.ArrayList;
